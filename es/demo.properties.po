@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Generated-By: Serge 1.2\n"
+
+#. message.welcome
+#. FILE_TRANSLATE
+#: File: demo.properties
+#: ID: 163864e31c2b1ea8ab9e7581a30a5e11
+msgid "Let’s make the web multilingual"
+msgstr ""
+
+#. message.welcomeback
+#: File: demo.properties
+#: ID: e02e4f7eedeec0cbc9b1cc0986e94334
+msgid "Welcome back, %1$s! Your last visit was on %2$s"
+msgstr ""
